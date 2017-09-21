@@ -1,0 +1,2 @@
+module PugsHelper
+end
